@@ -21,6 +21,7 @@
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Basics-blue?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
