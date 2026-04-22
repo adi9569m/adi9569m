@@ -9,23 +9,22 @@
 ## 🚀 Projects
 
 🔐 **Vulnerability Scanner**  
-- Python, Flask, Nmap, Socket  
-- Port scanning, service detection, HTTP header analysis  
+- Built a Python-based scanner with CLI and Flask UI
+- Performs port scanning, service detection, and HTTP header analysis  
 
 🧪 **Web Automation Testing Framework**  
-- Selenium, Pytest, POM  
-- Automated login testing, HTML reports, reusable structure  
+- Developed a Selenium + Pytest framework using Page Object Model
+- Automated login testing with HTML reports and reusable components
 
 ---
 
 ## 🛠️ Tech Stack
 
-🐍 Python  
-🌐 Flask  
-🧪 Selenium & Pytest  
-🔌 Socket Programming  
-📡 Networking Basics  
-🛠️ Git & GitHub  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
